@@ -1,0 +1,9 @@
+table.display th {
+    /* background: #8f8f8f; */
+    width: 1% !important;
+
+}
+td.img-show img {
+    width: 50%;
+    padding: 10px;
+}
